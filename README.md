@@ -7,7 +7,9 @@ Interactive dashboard to visualize and compare neural network activation functio
 ---
 ## Link
 [Go To The App](https://activation-functions-explorer.streamlit.app)
-
+![alt text](assets/image-1.png)
+![alt text](assets/image.png)
+![alt text](assets/image-2.png)
 
 ## Usage
 
